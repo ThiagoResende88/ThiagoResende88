@@ -5,25 +5,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoResende88&theme=radical&hide_border=false" width="45%" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/ThiagoResende88/ThiagoResende88/blob/main/aws-cloud-quest-cloud-practitioner.png" width="150px" alt="AWS Cloud Practitioner Badge"/>
-</div>
-
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Full-Stack Jr. e Físico em transição para IA e Modelagem Matemática. Combino conhecimentos avançados em matemática aplicada (formação em Física + Mestrado) com habilidades em desenvolvimento de software e entusiasmo por soluções baseadas em Machine Learning. Busco integrar análise quantitativa, algoritmos e IA para resolver problemas complexos.
+Físico transformado em desenvolvedor, atualmente navegando na interseção de *Desenvolvimento Web*, *Cloud Computing* e *Marketing Digital*. Minha formação em Física e experiência como educador me deram uma capacidade única de resolver problemas complexos e comunicar soluções técnicas de forma clara.
 
 ### 🚀 Minha jornada profissional
 
-- 🎓 **Formação Acadêmica**: 
-  - Licenciatura em Física (UFSCar, 2010-2014) com ênfase em Matemática Aplicada
-  - Mestrado em Ciências Naturais (USP, 2015-2017) com pesquisa em Modelagem de Sistemas Complexos em Saúde
-  - Desenvolvimento de Software Multiplataforma (FATEC Franca, 2023-2026)
-- 👨‍🏫 **2012-2022**: Professor de Física em escolas particulares e estaduais, desenvolvendo habilidades em comunicação e metodologias de ensino
+- 🎓 **Formação Acadêmica**: Licenciatura em Física (UFSCar) e Mestrado em Física Médica (USP-RP)
+- 👨‍🏫 **2015-2023**: Professor de Física, desenvolvendo habilidades em comunicação e metodologias de ensino
 - 🔄 **2023-Presente**: Transição para Tecnologia e Marketing Digital
-- 📊 **Jan 2023 - Out 2023**: Analista de Dados e Tráfego Orgânico na Grape Solutions
-- 💻 **Jan 2024 - Presente**: Analista de Estratégias Digitais e Dev. Web WordPress na CrWA - Agência de Marketing
-- ☁️ **AWS Cloud Practitioner Certificado**: Conhecimentos em serviços cloud, infraestrutura e boas práticas
+- 📊 **Analista SEO & Dev Jr.**: Otimização de sites, análise de dados e desenvolvimento WordPress
+- ☁️ **Estagiário em Cloud & DevSecOps**: Foco em AWS, Linux, Docker e infraestrutura moderna
+- 👨‍🎓 **Estudante**: Cursando Desenvolvimento de Software Multiplataforma (Fatec Franca)
 
 ## 🛠️ Stack Tecnológico
 
@@ -64,10 +57,15 @@ Desenvolvedor Full-Stack Jr. e Físico em transição para IA e Modelagem Matem�
 - **Segurança**: Princípios de DevSecOps e boas práticas
 
 ## 🌱 Atualmente aprendendo
-- TensorFlow/PyTorch para aplicações de Machine Learning
-- Modelagem estatística avançada para análise de dados
-- Desenvolvimento fullstack com Next.js e APIs
-- Algoritmos de otimização para resolução de problemas complexos
+- Automação de Infraestutura como Código (IaC) [CloudFormation]
+- Kubernetes e orquestração de containers
+- FinOps e otimização de custos em nuvem
+- Ciência de Dados e Big Data analytics
+- Desenvolvimento backend com Node.js
+  
+<div align="center">
+  <img src="https://github.com/ThiagoResende88/ThiagoResende88/blob/main/aws-cloud-quest-cloud-practitioner.png" width="150px" alt="AWS Cloud Practitioner Badge"/>
+</div>
 
 ## 📚 Projetos em destaque
 
@@ -89,8 +87,9 @@ Implementação de arquitetura serverless para aplicações web, utilizando Lamb
 
 ## 🎯 Objetivos de carreira
 - Integração de Inteligência Artificial com desenvolvimento de software
-- Especialização em análise avançada de dados e modelagem matemática
-- Desenvolvimento de soluções que unam tecnologia e estratégia de negócios
+- Especialização em arquiteturas de dados para Big Data
+- Desenvolvimento de soluções de analytics com impacto direto em negócios
+- Combinar conhecimentos de marketing digital e desenvolvimento para criar produtos digitais inovadores
 
 ## 📫 Como me encontrar
 
